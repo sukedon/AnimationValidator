@@ -7,7 +7,8 @@ Hierarchy上でのオブジェクトの階層を変えたことによって起�
 ![result](https://github.com/kyorosuke/AnimationValidator/blob/feature/media/demo_1.gif)
 
 ## Requirements
-Unity 2017.3.1p4以上なら動くはず それ以下の動作検証はしてないです
+Unity 2017.3.1p4以上なら動くはず  
+それ以下の動作検証はしてないです
 
 ## How To Use
 Now書いてりんぐ
